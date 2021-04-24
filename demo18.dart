@@ -24,3 +24,10 @@ int power() {
 int sum(int x, int y) {
   return x + y;
 }
+// result
+/*
+5
+6
+25
+15
+*/
