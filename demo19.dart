@@ -36,3 +36,15 @@ String say(String from, String message, [String device]) {
 void enableFlags({bool bold = false, bool hidden = false}) {
   print('bold = $bold, and hidden = $hidden');
 }
+// result
+/*
+welcome
+Hello
+my name is Rabie and my age is 37 and i false
+my name is Ahmed and my age is 33 and i true
+Hazem says welcome to dart
+Talia says welcome to dart with samsung phone
+bold = false, and hidden = false
+bold = true, and hidden = false
+bold = false, and hidden = true
+*/
