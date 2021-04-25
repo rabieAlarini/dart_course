@@ -1,7 +1,6 @@
 import 'dart:io';
 main() {
   // Exceptions ( throw, on, catch, finally)
-  /*
     print('Enter your first number : ');
     int fn = int.parse(stdin.readLineSync());
     print('Enter your second number : ');
@@ -11,7 +10,7 @@ main() {
     print('$fn / $ln = $result');
   } on IntegerDivisionByZeroException {
     print('cant divide by zero');
-  }*/
+  }
 
   int x = 5;
   int y = 0;
